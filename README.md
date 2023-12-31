@@ -1,3 +1,5 @@
+<img src="1_20231231_130333_0000.png"/>
+
 #  ✨️About Me:
 I'm a web developer junior passionate about creating innovative and attractive solutions. I like to learn new languages ​​and technologies, and share my knowledge with the community.<br><br><br>
 
